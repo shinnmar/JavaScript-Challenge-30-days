@@ -1,2 +1,2 @@
-# days-of-code-challenge
-30 days of code challenge
+# JavaScript Challenge - 30 days
+30 days of code challenge for the WWC Challenge
